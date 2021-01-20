@@ -7,4 +7,7 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-sysfs_gpio = "0.5"
+gpio-cdev = "0.4.0"
+embedded-hal = "0.2.4"
+linux-embedded-hal = "0.3.0"
+rpi_embedded = "0.1.0"
