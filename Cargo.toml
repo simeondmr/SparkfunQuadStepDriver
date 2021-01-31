@@ -1,5 +1,5 @@
 [package]
-name = "SparkfunQuadStepDriver"
+name = "sparkfun_quadstep_driver"
 version = "0.1.0"
 authors = ["simeondmr <dmrsim94@gmail.com>"]
 edition = "2018"
